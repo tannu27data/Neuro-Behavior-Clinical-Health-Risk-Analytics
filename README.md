@@ -1,41 +1,43 @@
-<![CDATA[<div align="center">
+<h1 align="center">🧠 Neuro-Behavior Clinical Health Risk Analytics</h1>
 
-# 🧠 Neuro-Behavior Clinical Health Risk Analytics
+<h3 align="center"><i>An End-to-End Data Science Pipeline for Healthcare Risk Prediction</i></h3>
 
-### *An End-to-End Data Science Pipeline for Healthcare Risk Prediction*
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tannu27data.Neuro-Behavior-Clinical-Health-Risk-Analytics&left_color=%23363636&right_color=%2300b4d8&left_text=Visitors" alt="Visitors" />
+</p>
 
-<!-- 👁️ Visitor Counter — tracks how many people view this repository -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tannu27data.Neuro-Behavior-Clinical-Health-Risk-Analytics&left_color=%23363636&right_color=%2300b4d8&left_text=Visitors)
+<p align="center">
+  <a href="https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/stargazers"><img src="https://img.shields.io/github/stars/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=gold&label=Stars" alt="GitHub Stars"></a>
+  <a href="https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/network/members"><img src="https://img.shields.io/github/forks/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=blue&label=Forks" alt="GitHub Forks"></a>
+  <a href="https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/watchers"><img src="https://img.shields.io/github/watchers/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=teal&label=Watchers" alt="GitHub Watchers"></a>
+  <a href="https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/commits"><img src="https://img.shields.io/github/last-commit/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=purple&label=Last%20Commit" alt="GitHub Last Commit"></a>
+  <a href="https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics"><img src="https://img.shields.io/github/repo-size/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=orange&label=Repo%20Size" alt="GitHub Repo Size"></a>
+</p>
 
-<!-- 📊 GitHub Repository Stats -->
-[![GitHub Stars](https://img.shields.io/github/stars/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=gold&label=Stars)](https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=blue&label=Forks)](https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/network/members)
-[![GitHub Watchers](https://img.shields.io/github/watchers/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=teal&label=Watchers)](https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/watchers)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=purple&label=Last%20Commit)](https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics/commits)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=for-the-badge&logo=github&color=orange&label=Repo%20Size)](https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics)
-
-<!-- 🛠️ Tech Stack Badges -->
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-blue?style=for-the-badge)](https://xgboost.readthedocs.io/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-9cf?style=for-the-badge)](https://lightgbm.readthedocs.io/)
-[![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=for-the-badge)](https://shap.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
+  <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-Boosting-blue?style=for-the-badge" alt="XGBoost"></a>
+  <a href="https://lightgbm.readthedocs.io/"><img src="https://img.shields.io/badge/LightGBM-Boosting-9cf?style=for-the-badge" alt="LightGBM"></a>
+  <a href="https://shap.readthedocs.io/"><img src="https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=for-the-badge" alt="SHAP"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
+</p>
 
 <br/>
 
-*Transforming raw clinical data into actionable intelligence — supporting preventive healthcare and personalized medicine through advanced data analytics, statistical rigor, and machine learning.*
+<p align="center">
+  <em>Transforming raw clinical data into actionable intelligence — supporting preventive healthcare and personalized medicine through advanced data analytics, statistical rigor, and machine learning.</em>
+</p>
 
----
+<hr>
 
-**Author:** [Tannu Shree](https://github.com/tannu27data)  
-**Repository:** [Neuro-Behavior-Clinical-Health-Risk-Analytics](https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics)
+<p align="center">
+  <strong>Author:</strong> <a href="https://github.com/tannu27data">Tannu Shree</a> | <strong>Repository:</strong> <a href="https://github.com/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics">Neuro-Behavior-Clinical-Health-Risk-Analytics</a>
+</p>
 
----
-
-</div>
+<hr>
 
 ## 🌟 Executive Summary & Project Highlights
 
@@ -621,27 +623,29 @@ This project is open-source and distributed under the **MIT License**. You are f
 
 ---
 
-<div align="center">
+<hr>
 
-### 📊 Live Repository Stats
+<h3 align="center">📊 Live Repository Stats</h3>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tannu27data.Neuro-Behavior-Clinical-Health-Risk-Analytics&left_color=%23363636&right_color=%2300b4d8&left_text=Total%20Visitors)
-![GitHub Stars](https://img.shields.io/github/stars/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=gold)
-![GitHub Forks](https://img.shields.io/github/forks/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=blue)
-![GitHub Issues](https://img.shields.io/github/issues/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=red)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=green)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tannu27data.Neuro-Behavior-Clinical-Health-Risk-Analytics&left_color=%23363636&right_color=%2300b4d8&left_text=Total%20Visitors" alt="Visitors">
+  <img src="https://img.shields.io/github/stars/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=gold" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=blue" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/issues/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=red" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/issues-pr/tannu27data/Neuro-Behavior-Clinical-Health-Risk-Analytics?style=flat-square&color=green" alt="GitHub Pull Requests">
+</p>
 
 <br/>
 
-### ⭐ If you found this repository helpful, educational, or inspiring, please give it a star!
+<h3 align="center">⭐ If you found this repository helpful, educational, or inspiring, please give it a star!</h3>
 
-**Engineered with ❤️ by [Tannu Shree](https://github.com/tannu27data)**
+<p align="center">
+  <strong>Engineered with ❤️ by <a href="https://github.com/tannu27data">Tannu Shree</a></strong><br>
+  <em>Bridging the gap between data science and clinical healthcare to build a healthier, data-driven future.</em>
+</p>
 
-*Bridging the gap between data science and clinical healthcare to build a healthier, data-driven future.*
+<hr>
 
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/tannu27data)
-
-</div>
-]]>
+<p align="center">
+  <a href="https://github.com/tannu27data"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
